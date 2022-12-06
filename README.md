@@ -1,4 +1,4 @@
-# Yolov7 + StrongSORT with OSNet
+# Yolov5 + StrongSORT with OSNet
 Project Tracking Pig  In The Barn
 
 
